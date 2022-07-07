@@ -1,0 +1,4 @@
+- [[Hi! 👋 I'm Randall]]
+- [[Security Outlook 👓]]
+- [[Actionables 🏃]]
+- [[Benefits 💰]]
